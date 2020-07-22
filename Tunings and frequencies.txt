@@ -1,0 +1,43 @@
+32768 Hz = 30.5176 usec
+
+Standar tuning
+E2 = E =  82.407 Hz = 12.135 msec = 398 count
+A2 = A = 110     Hz =  9.091 msec = 298 count
+D3 = D = 146.83  Hz =  6.811 msec = 223 count
+G3 = G = 196.00  Hz =  5.102 msec = 167 count
+B3 = B = 246.94  Hz =  4.050 msec = 133 count
+E4 = E = 329.63  Hz =  3.034 msec =  99 count
+
+Drop D: D A D G B E
+Double Drop D: D A D G B D
+Drop C: C G C F A D
+Open G: D G D G B D
+Open C: C G c g c e
+Full Step Down
+Dsus4: D A D G A D
+Open C Minor Tuning
+Open D: D A D F# A D
+Open D Minor: D A D F A D
+
+Bass Guitar Standar Tuning
+G2 	98     Hz = 10.204 msec = 334 count
+D2 	73.416 Hz
+A1 	55     Hz
+E1 	41.204 Hz
+B0 	30.868 Hz
+
+
+32768 
+Counts	0	1	2	3	4	5	6	7	8
+C		1002	501	250	125	63	31	16	8
+C#		946	473	236	118	59	30	15	
+D		893	446	223	112	56	28	14	
+D#		843	421	211	105	53	26	13	
+E		795	398	199	99	50	25	12	
+F		751	375	188	94	47	23	12	
+F#		709	354	177	89	44	22	11	
+G		669	334	167	84	42	21	10	
+G#		631	316	158	79	39	20	10	
+A	1262	596	298	149	74	37	19	9	
+A#	1125	562	281	141	70	35	18	9	
+B	1062	531	265	133	66	33	17	8	

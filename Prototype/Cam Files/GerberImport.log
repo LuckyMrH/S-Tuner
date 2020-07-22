@@ -1,0 +1,144 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+  <head>
+    <title>Gerber Import Results</title>
+    <STYLE>TABLE {PADDING: 0px; MARGIN: 0px; BORDER: none;}
+              TR {PADDING: 0px; MARGIN: 0px; BORDER: none;}
+              TD {PADDING: 0px; MARGIN: 0px; BORDER: none;}
+    </STYLE>
+  </head>
+  <body>
+  <TABLE id="Table1" style="WIDTH: 100%; HEIGHT: 51px" cellSpacing="1" cellPadding="1" width="553" align="center" border="1">
+    <TR>
+      <TD style="HEIGHT: 24px" bgColor="#ffffff">
+        <H1 align="center"><FONT color="#ff7f3f">Gerber Import Results</FONT></H1>
+      </TD>
+    </TR>
+    <TR>
+      <TD>
+        <P style="PADDING: 0px;SPACING: 0px;MARGIN: 0px; BORDER: none">
+        <TABLE id="Table2" style="BORDER: none;SPACING: 0px;" width="100%" bgColor="#ffdcdc" border="0">
+          <TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#0000ff">clh100-001RevA.plc(10) : warning: Zero-size aperture defined.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#0000ff">clh100-001RevA.sts(86) : warning: Could not find pad for drill '$119'. Do a Find on $119.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#0000ff">clh100-001RevA.sts(86) : warning: Could not find pad for drill '$120'. Do a Find on $120.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#0000ff">clh100-001RevA.sts(86) : warning: Could not find pad for drill '$121'. Do a Find on $121.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#0000ff">clh100-001RevA.sts(86) : warning: Could not find pad for drill '$122'. Do a Find on $122.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.594in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.594in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.494in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.494in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.856in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.856in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.956in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.956in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.956in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.956in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.856in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.856in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.594in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.594in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.494in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.494in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.594in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.594in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.494in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.494in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.856in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.856in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#efefef">
+              <FONT color= "#000000">Thermal flash converted to round flash at 0.197in,0.956in.</FONT>
+            </TD>
+          </TR>
+		<TD style="BORDER: none" bgColor="#afafaf">
+              <FONT color= "#000000">Custom aperture cutouts ignored at 0.197in,0.956in.</FONT>
+            </TD>
+          </TR>
+        </TABLE>
+        </P>
+      </TD>
+    </TR>
+  </TABLE>
+  </body>
+</html>
